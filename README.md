@@ -67,11 +67,9 @@ Lịch sử chuyển khoản:
         https GET https://cax.piccadilly.autonity.org/api/deposits/ API-Key:$KEY
 
 
-                
+Bond 
 
-        
-
-
+        aut validator bond --validator 0x1881686E4081ECd87d345E30b6D0360d9A9d91E8 Amount | aut tx sign - | aut tx send -
     
     
 
